@@ -1,0 +1,15 @@
+# INPUT
+# Single observation of objact size, human action and expression from one interaction 
+
+int8 object_size
+int8 human_action
+int8 human_expression
+
+---
+
+# OUTPUT
+# Probabilities of robot expressions
+
+float32 p_happy
+float32 p_sad
+float32 p_neutral
