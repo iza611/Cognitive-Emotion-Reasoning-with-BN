@@ -1,6 +1,6 @@
 Steps to run the package:
-1) Dwonload the project
-2) Place the downloaded folder inside directory ~/your_ws/src 
+1) Dwonload the projectand copy the content into new folder cr_week6_test 
+2) Place the cr_week6_test folder inside directory ~/your_ws/src 
 (replace 'your_ws' with the name of the desired workspace)
 3) Open a terminal and run command:  cd ~/your_ws/  
 4) Run command:  catkin_make
